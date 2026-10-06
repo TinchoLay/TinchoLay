@@ -12,10 +12,11 @@ IT support and cybersecurity, based in Argentina (UTC-3). I'm looking for a remo
 | [Helpdesk Labs](https://github.com/TinchoLay/Helpdesk-labs) | Active Directory on Azure with 50 users and 12 documented N1/N2 tickets, plus PowerShell automation |
 | [Hash Identifier](https://github.com/TinchoLay/Hash-Identifier) | Python CLI that identifies hash types with a confidence ranking (38 tests) |
 | [Hash Cracker](https://github.com/TinchoLay/Hash-Cracker) | Multi-core dictionary attack CLI that imports Hash Identifier (41 tests) |
+| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Wazuh 4.14.8 lab on AWS with three custom auditd rules mapped to MITRE ATT&CK, each tested with a positive case, a negative case and a documented evasion |
 
 ### Tools I work with
 
-Python, PowerShell, Windows Server and Active Directory, Azure, Docker, Flask, scikit-learn, Git, pytest.
+Python, PowerShell, Windows Server and Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Docker, Flask, scikit-learn, Git, pytest.
 
 ### Languages
 
@@ -41,10 +42,11 @@ Soporte IT y ciberseguridad, desde Argentina (UTC-3). Busco un puesto remoto de 
 | [Helpdesk Labs](https://github.com/TinchoLay/Helpdesk-labs) | Active Directory en Azure con 50 usuarios y 12 tickets N1/N2 documentados, más automatización en PowerShell |
 | [Hash Identifier](https://github.com/TinchoLay/Hash-Identifier) | CLI en Python que identifica tipos de hash con ranking de confianza (38 tests) |
 | [Hash Cracker](https://github.com/TinchoLay/Hash-Cracker) | CLI de ataque por diccionario multinúcleo que importa Hash Identifier (41 tests) |
+| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Laboratorio de Wazuh 4.14.8 en AWS con tres reglas propias de auditd mapeadas a MITRE ATT&CK, cada una probada con un caso positivo, uno negativo y una evasión documentada |
 
 ### Herramientas
 
-Python, PowerShell, Windows Server y Active Directory, Azure, Docker, Flask, scikit-learn, Git, pytest.
+Python, PowerShell, Windows Server y Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Docker, Flask, scikit-learn, Git, pytest.
 
 ### Idiomas
 
