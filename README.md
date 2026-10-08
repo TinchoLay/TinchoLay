@@ -12,11 +12,11 @@ IT support and cybersecurity, based in Argentina (UTC-3). I'm looking for a remo
 | [Helpdesk Labs](https://github.com/TinchoLay/Helpdesk-labs) | Active Directory on Azure with 50 users and 12 documented N1/N2 tickets, plus PowerShell automation |
 | [Hash Identifier](https://github.com/TinchoLay/Hash-Identifier) | Python CLI that identifies hash types with a confidence ranking (38 tests) |
 | [Hash Cracker](https://github.com/TinchoLay/Hash-Cracker) | Multi-core dictionary attack CLI that imports Hash Identifier (41 tests) |
-| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Wazuh 4.14.8 lab on AWS with three custom auditd rules mapped to MITRE ATT&CK, each tested with a positive case, a negative case and a documented evasion |
+| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Wazuh 4.14.8 lab on AWS with 32 custom auditd rules, 28 of them built from TeamTNT techniques and mapped to MITRE ATT&CK. Each has a positive test, a negative test and a documented evasion, and three also exist as Sigma rules |
 
 ### Tools I work with
 
-Python, PowerShell, Windows Server and Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Docker, Flask, scikit-learn, Git, pytest.
+Python, PowerShell, Windows Server and Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Sigma, Docker, Flask, scikit-learn, Git, pytest.
 
 ### Languages
 
@@ -42,11 +42,11 @@ Soporte IT y ciberseguridad, desde Argentina (UTC-3). Busco un puesto remoto de 
 | [Helpdesk Labs](https://github.com/TinchoLay/Helpdesk-labs) | Active Directory en Azure con 50 usuarios y 12 tickets N1/N2 documentados, más automatización en PowerShell |
 | [Hash Identifier](https://github.com/TinchoLay/Hash-Identifier) | CLI en Python que identifica tipos de hash con ranking de confianza (38 tests) |
 | [Hash Cracker](https://github.com/TinchoLay/Hash-Cracker) | CLI de ataque por diccionario multinúcleo que importa Hash Identifier (41 tests) |
-| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Laboratorio de Wazuh 4.14.8 en AWS con tres reglas propias de auditd mapeadas a MITRE ATT&CK, cada una probada con un caso positivo, uno negativo y una evasión documentada |
+| [Wazuh Detection Pack](https://github.com/TinchoLay/wazuh-detection-pack) | Laboratorio de Wazuh 4.14.8 en AWS con 32 reglas propias de auditd, 28 de ellas armadas a partir de técnicas de TeamTNT y mapeadas a MITRE ATT&CK. Cada una tiene una prueba positiva, una negativa y una evasión documentada, y tres existen también como reglas Sigma |
 
 ### Herramientas
 
-Python, PowerShell, Windows Server y Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Docker, Flask, scikit-learn, Git, pytest.
+Python, PowerShell, Windows Server y Active Directory, Azure, AWS, Wazuh, auditd, MITRE ATT&CK, Sigma, Docker, Flask, scikit-learn, Git, pytest.
 
 ### Idiomas
 
